@@ -12022,3 +12022,7 @@ footer a:focus {
     max-width: 17rem;
   }
 }
+
+.privacy-box {
+  padding: 10px;
+}
